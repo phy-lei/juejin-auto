@@ -1,0 +1,13 @@
+{
+  "name": "sign",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "form-data": "^4.0.0",
+    "got": "11.8.2"
+  }
+}
