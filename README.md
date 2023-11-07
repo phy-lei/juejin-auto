@@ -20,3 +20,4 @@ node app.js
 
 + 部署腾讯云函数自动运行
 
+**已经迁移到新的方案，使用netlify部署，请移步[新仓库](https://github.com/phy-lei/netlify_juejin_auto)**
